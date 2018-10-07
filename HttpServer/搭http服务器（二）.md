@@ -19,15 +19,16 @@ title:搭http服务器（二） 配置树莓派
 ## 材料
 至少需要的材料:
 
-树莓派的 SD卡\电源
-路由\网线
-一台win-PC 读卡器
+* 树莓派\SD卡\电源
+* 路由\网线
+* 一台win-PC\读卡器
 
-软件:
-putty或其他ssh软件
-ImageWriter([Win32 Disk Imager](https://sourceforge.net/projects/win32diskimager/))
-raspbian 镜像 (官网下载)
-config.txt文件(有的树莓派需要这个,所以格式化前先备份之)
+    软件:
+    
+* putty或其他ssh软件
+* ImageWriter ([Win32 Disk Imager](https://sourceforge.net/projects/win32diskimager/))
+* raspbian 镜像 (官网下载)
+* config.txt文件 (有的树莓派需要这个,所以格式化前先备份之)
 
 ## 流程
 
