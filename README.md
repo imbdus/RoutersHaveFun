@@ -7,3 +7,4 @@ Computer networks are fun.
 入个门, 利用树莓派和路由器实现简单的http服务器.
 
 1. [搭http服务器（一） Overview](./HttpServer/搭http服务器（一）.md)
+1. [搭http服务器（二） 配置树莓派](./HttpServer/搭http服务器（二）.md)
